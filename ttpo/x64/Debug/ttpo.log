@@ -1,0 +1,7 @@
+﻿  ttpo.cpp
+D:\Console.Applications\ttpo\ttpo\ttpo.cpp(21,27): warning C4244: инициализация: преобразование "float" в "size_t", возможна потеря данных
+D:\Console.Applications\ttpo\ttpo\ttpo.cpp(25,28): warning C4244: инициализация: преобразование "float" в "size_t", возможна потеря данных
+D:\Console.Applications\ttpo\ttpo\ttpo.cpp(26,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Console.Applications\ttpo\ttpo\ttpo.cpp(32,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\Console.Applications\ttpo\ttpo\ttpo.cpp(33,25): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  ttpo.vcxproj -> D:\Console.Applications\ttpo\x64\Debug\ttpo.exe
